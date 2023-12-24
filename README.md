@@ -1,6 +1,6 @@
 # Software Testing and Automation Specialization
 
-![Software Testing Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4U6IueenUba5NrUm1zXNeqChCtZN9_4KtnA&usqp=CAU)
+![Software Testing Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0w1pIeo1Xd7iDAKsrX6o9VjOjAKmZJ-r45Q&usqp=CAU)
 
 ## Table of Contents
 
